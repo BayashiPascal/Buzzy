@@ -1,0 +1,8 @@
+UnitTestBuzzyCreateFree OK
+UnitTestBuzzyGetSet OK
+BuzzyPlaySingleFlatNote
+BuzzyPlaySingleLinerarDecreasingNote
+BuzzyPlayWholeRange
+BuzzyPlayStarWars
+UnitTestBuzzyPlayNote OK
+UnitTestAll OK
